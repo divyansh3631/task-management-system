@@ -2,32 +2,40 @@
 
 A full-stack task management application built with Node.js, TypeScript, Next.js, and PostgreSQL.
 
+---
+
 ## 🚀 Features
 
 - User authentication (Register, Login, Logout)
-- JWT-based security with refresh tokens
+- JWT-based authentication with access and refresh tokens
 - Full CRUD operations for tasks
+- Toggle task status (pending / completed)
 - Task filtering by status
 - Task searching by title
-- Responsive design
+- Responsive UI
 - Toast notifications
+
+---
 
 ## 🛠️ Tech Stack
 
-**Backend:**
-- Node.js + TypeScript
+### Backend
+- Node.js
+- TypeScript
 - Express.js
 - Prisma ORM
 - PostgreSQL
 - JWT Authentication
 - Bcrypt
 
-**Frontend:**
+### Frontend
 - Next.js 14
 - TypeScript
 - Tailwind CSS
 - Axios
 - React Hot Toast
+
+---
 
 ## 📦 Installation
 
@@ -42,27 +50,5 @@ npm install
 npx prisma generate
 npx prisma migrate dev --name init
 npm run dev
-```
 
-### Frontend Setup
-```bash
-cd frontend
-npm install
-npm run dev
-```
 
-## 📸 Screenshots
-
-[Add screenshots here after deployment]
-
-## 🔗 Live Demo
-
-[Add deployed link here]
-
-## 👨‍💻 Author
-
-Divyansh Sharma - [GitHub](https://github.com/divyansh3631)
-
-## 📝 License
-
-MIT
