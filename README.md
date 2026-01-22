@@ -61,7 +61,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Divya - [GitHub](https://github.com/YOUR_USERNAME)
+Divyansh Sharma - [GitHub](https://github.com/divyansh3631)
 
 ## 📝 License
 
