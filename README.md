@@ -332,7 +332,7 @@ NEXT_PUBLIC_API_URL=http://localhost:5000/api
 
 ## 📝 License
 
-This project is open source and available under the [MIT License]([LICENSE](https://opensource.org/license/mit)).
+This project is open source and available under the [MIT License]([LICENSE]).
 
 ---
 
